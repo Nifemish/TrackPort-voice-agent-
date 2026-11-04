@@ -1,0 +1,6 @@
+{
+  "name": "NBATOOLS Voice Concierge — TrackPort AI Agent",
+  "description": "Real-time Gemini Live voice conversational agent and customer support workspace for nbatools.cc.cd (TrackPort Transport & Logistics).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
